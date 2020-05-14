@@ -1,0 +1,4 @@
+m3_project.egg-info/
+test_task/
+*.sqlite3
+*.pyc
